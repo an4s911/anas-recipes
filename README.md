@@ -1,2 +1,2 @@
 # anas-recipes
-The recipes project (HTML Foundations) on The Odin Project
+The Recipes project on The Odin Project

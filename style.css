@@ -1,0 +1,48 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Ubuntu Mono", "Ubuntu", sans-serif;
+    text-align: center;
+    color: azure;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: chocolate;
+}
+
+h2 {
+    font-size: 35px;
+    background-color: darkorange;
+}
+
+h3 {
+    font-size: 30px;
+    background-color: darkred;
+}
+
+p {
+    font-size: 25px;
+    color: forestgreen;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+ul li,
+ul li a,
+ol li,
+ol li a {
+    font-size: 18px;
+    color: darkmagenta;
+    text-decoration: none;
+}
+
+a:hover, li:hover {
+    color: fuchsia;
+}
+
+.main-list li,
+.main-list li a {
+    font-size: 25px;
+}
